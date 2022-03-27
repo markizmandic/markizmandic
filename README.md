@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markizmandic
 - 👀 I’m interested in blockchain technology
-- 🌱 I’m currently learning python and concepts of blockchain
-- 💞️ I’m looking to collaborate on some blockchain projects
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me markizmandic@icloud.com
 
 <!---
